@@ -8,5 +8,9 @@ export default function Home() {
           <nav>
             <ul className = "flex justify-center gap-24 text-[1.5rem]">
               <li>
-                
+                <Link href="#projects" className="hover:underline">
+                  projects
+                </Link>
+              </li>
+              <li>
   )
