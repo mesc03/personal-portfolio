@@ -37,3 +37,11 @@ export default function Home() {
                 pacific college. i am pursuing computer science, specifically software and systems. this
                 portfolio alone is created purely because i am interested to showcase my skills as i progress
                 further.
+                </p>
+            </div>
+          </div>
+        </main>
+      </div>
+    </div>
+  );
+}
