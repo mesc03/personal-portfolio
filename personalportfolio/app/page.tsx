@@ -30,4 +30,10 @@ export default function Home() {
               <h1 className="text-[6.25rem] leading-none font-normal lowercase tracking-tight">
                 about me
               </h1>
-  )
+              </div>
+            <div className="max-w-[500px]">
+              <p className="text-[1.05rem] font-medium leading-[1.9] tracking-wide">
+                i am michael patrick escalambre, or pat in short. i am in my fourth year college at asia
+                pacific college. i am pursuing computer science, specifically software and systems. this
+                portfolio alone is created purely because i am interested to showcase my skills as i progress
+                further.
