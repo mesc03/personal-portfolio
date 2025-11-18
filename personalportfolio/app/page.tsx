@@ -25,23 +25,23 @@ export default function Home() {
       </nav>
 
       {/* Main Content */}
-      <main className="pt-20 px-12 pb-16">
-        <div className="max-w-[1400px] mx-auto">
-          <div className="flex flex-col md:flex-row gap-32 items-start min-h-[70vh]">
+      <main className="pt-24 px-16 pb-16">
+        <div className="max-w-[1600px] mx-auto">
+          <div className="flex flex-col md:flex-row gap-24 items-center min-h-[75vh]">
             {/* Left side - Title */}
-            <div className="md:w-[35%] pt-12">
-              <h1 className="text-[5rem] md:text-[6rem] leading-none font-normal lowercase tracking-tight">
+            <div className="md:w-[40%]">
+              <h1 className="text-[6rem] md:text-[7rem] leading-none font-normal lowercase tracking-tight">
                 about me
               </h1>
             </div>
 
             {/* Right side - Description */}
-            <div className="md:w-[65%] pt-12">
-              <p className="text-[0.95rem] leading-[1.8] tracking-wide">
-                throughout my college years, i have done different projects that involved ai for strategy and 
-                integrating it in a system to help aid lawyers, and lastly my thesis being gigantic ai in 
-                education for constructive alignment, as well as created a machine learning model to also give 
-                constructive alignment in school syllabi.
+            <div className="md:w-[60%]">
+              <p className="text-[1rem] leading-[1.75] tracking-normal">
+                i am michael patrick escalambre, or pat in short. i am in my fourth year college at asia 
+                pacific college. i am pursuing computer science, specifically software and systems. this 
+                portfolio alone is created purely because i am interested to showcase my skills as i progress 
+                further.
               </p>
             </div>
           </div>
