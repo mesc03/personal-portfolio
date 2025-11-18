@@ -17,4 +17,11 @@ export default function Home() {
                   home
                 </Link>
               </li>
+              <Link href="#contacts" className="hover:underline">
+                  contacts
+                </Link>
+              </li>
+            </ul>
+          </nav>
+        </header>
   )
