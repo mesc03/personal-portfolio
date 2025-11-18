@@ -13,4 +13,8 @@ export default function Home() {
                 </Link>
               </li>
               <li>
+                <Link href="#home" className="hover:underline">
+                  home
+                </Link>
+              </li>
   )
