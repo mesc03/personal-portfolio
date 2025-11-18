@@ -11,7 +11,7 @@ export default function Home() {
                 <Link href="#projects" className="hover:underline">
                   projects
                 </Link>
-              </li>
+                </li>
               <li>
                 <Link href="#home" className="hover:underline">
                   home
@@ -24,4 +24,10 @@ export default function Home() {
             </ul>
           </nav>
         </header>
+        <main className="flex-1 pb-20">
+          <div className="grid gap-12 md:grid-cols-[360px_minmax(0,1fr)] md:gap-24 md:items-start">
+            <div className="flex justify-start">
+              <h1 className="text-[6.25rem] leading-none font-normal lowercase tracking-tight">
+                about me
+              </h1>
   )
